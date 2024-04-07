@@ -1,0 +1,10 @@
+/* Tweet Class */
+.tweet {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    border-bottom: 1px solid #e1e8ed;
+    border-radius: 1rem;
+    background-color: #f5f8fa;
+    color:black;
+}
